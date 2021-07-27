@@ -7,11 +7,12 @@ Authors: Zhipeng Wu, *Student Member, IEEE*, Teng Wang, Yingjie Wang, Robert Wan
 
 ### Introduction
 
-This is the source code for training and testing PUNet/DDNet, which will be uploaded soon.
+This is the source code for training and testing PUNet/DDNet, implemented in the PyTorch framework version 1.8.0 based on Python 3.6.
+
 
 ### Installation
 
-The code was tested with Python 3.6.
+Assume you have Python 3.6 installed.
 
 1. Clone the repo:
 
