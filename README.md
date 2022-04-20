@@ -9,6 +9,8 @@ Authors: Zhipeng Wu, *Student Member, IEEE*, Teng Wang, Yingjie Wang, Robert Wan
 
 This is the source code for training and testing PUNet/DDNet, implemented in the PyTorch framework version 1.8.0 based on Python 3.6.
 
+**For code to generate the training dataset, see [InterferogramSimulator](https://github.com/Wu-Patrick/InterferogramSimulator).**
+
 
 ### Installation
 
@@ -63,6 +65,19 @@ usage: test.py [-h] [--model MODEL] [--dataRootDir DATAROOTDIR]
 python test.py
 ~~~
 
+### Citation
+If you use this code, please cite the following:
+~~~BibTeX
+@ARTICLE{9583229,
+  author={Wu, Zhipeng and Wang, Teng and Wang, Yingjie and Wang, Robert and Ge, Daqing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Deep Learning for the Detection and Phase Unwrapping of Mining-Induced Deformation in Large-Scale Interferograms}, 
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-18},
+  doi={10.1109/TGRS.2021.3121907}}
+~~~
 
 ### Acknowledgement
 
